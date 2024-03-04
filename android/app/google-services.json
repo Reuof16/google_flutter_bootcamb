@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71909924557",
+    "project_id": "flutterbootcamb",
+    "storage_bucket": "flutterbootcamb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71909924557:android:e22f45844c8df1f59f1384",
+        "android_client_info": {
+          "package_name": "com.example.google_flutter_bootcamb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_9VbztZcqbWbc-UWv-ahH2Zl0NOVx-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
